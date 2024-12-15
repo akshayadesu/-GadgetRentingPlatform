@@ -16,7 +16,7 @@ Once the server is running, you can navigate to:
 Home Page (/): The landing page with the hero banner, features, gadget listing, and contact form.
 
 Deployed Website
-You can view the live version of the app here:
+You can view the live version of the app here:https://gadget-renting-platform-j8i0tpzg9.vercel.app/
 
 
 Acknowledgments
