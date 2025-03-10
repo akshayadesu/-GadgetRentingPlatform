@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 const Navbar = ({ isAuthenticated, onSignOut }) => {
   return (
     <nav className="bg-gray-800 text-white px-6 py-4 flex justify-between items-center">
-      <h1 className="text-2xl font-bold">QuickRenting...............</h1>
+      <h1 className="text-2xl font-bold">QuickRenting...</h1>
       <div className="space-x-4">
         <a href="#features" className="hover:text-blue-400">Features</a>
         <a href="#gadgets" className="hover:text-blue-400">Gadgets</a>
